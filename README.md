@@ -21,3 +21,7 @@ In this dataset there are different columns such as:
 ### Question that are solved 
 
 1. Based on the configuration which laptop to buy.
+
+### Report look like this 
+
+![image](https://github.com/mukesh1996-ds/Laptop-Analysis-Dashboard/blob/main/Images%20%26%20Screen%20shorts/Report1.png)
